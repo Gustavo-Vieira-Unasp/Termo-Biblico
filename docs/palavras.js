@@ -7,5 +7,5 @@ const listaDePalavras = [
     "VARAO", "SERVO", "EXODO", "TERRA", "PRAGA", "NOIVA", "VINHO", "SEARA", 
     "JEJUM", "PECAR", "MONTE", "JUDAS", "JOSUE", "FARAO", "RAMOS", "POMBA", 
     "TENDA", "BABEL", "CESAR", "MOABE", "SANTO", "OBRAS", "FESTA", "HINOS", 
-    "ANIMO", "AMIGO", "VOZES", "SAULO", "SILAS", "NOEMI", "BETEL"
+    "ANIMO", "AMIGO", "VOZES", "SAULO", "SILAS", "NOEMI", "BETEL",
 ];
